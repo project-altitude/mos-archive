@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/mos_archive.gpg] https://mountain-os.github.io/mos-archive ./
